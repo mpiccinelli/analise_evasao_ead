@@ -1,0 +1,41 @@
+cd_curso,curso,dt_inauguracao,semestres_existencia,qtd_semestres_curso
+ADE_SIS_EAD,Superior de Tecnologia em Análise e Desenvolvimento de Sistemas,20231,2,6
+ADM_EAD,Bacharelado em Administração,20201,8,8
+BED_FIS_EAD,Bacharelado em Educação Física,20221,4,8
+CIC_EAD,Bacharelado em Ciências Contábeis,20201,8,8
+DES_INT_EAD,Superior de Tecnologia em Design de Interiores,20231,2,5
+ED.FIS_EAD,Bacharelado em Educação Física,20211,6,8
+EDU.ESP_EAD,Licenciatura em Educação Especial,20191,10,8
+EDU_ESP_EAD,Licenciatura em Educação Especial,20221,4,8
+EMP_EAD,Superior de Tecnologia em Empreendedorismo,20221,4,4
+ENG_COA_EAD,Bacharelado em Engenharia de Controle e Automação,20231,2,10
+ENG_SOF_EAD,Bacharelado em Engenharia de Software,20231,2,10
+EST_COS_EAD,Superior de Tecnologia em Estética e Cosmética ,20221,4,5
+GESFIN_EAD,Superior de Tecnologia em Gestão Financeira,20201,8,4
+GEST_AMB,Superior de Tecnologia em Gestão Ambiental,20161,14,4
+GES_AGR_EAD,Superior de Tecnologia em Gestão do Agronegócio,20221,4,6
+GES_AMB_EAD,Superior de Tecnologia em Gestão Ambiental,20221,4,4
+GES_COM_EAD,Superior de Tecnologia em Gestão Comercial ,20221,4,4
+GES_HOS_EAD,Superior de Tecnologia em Gestão Hospitalar,20221,4,6
+GES_MAR_EAD,Superior de Tecnologia em Gestão de Marketing ,20221,4,4
+GES_PUB_EAD,Superior de Tecnologia em Gestão Pública ,20221,4,4
+GES_REC_HUM,Superior de Tecnologia em Gestão de Recursos Humanos,20161,13,4
+HIST_EAD,Licenciatura em História,20191,10,8
+IOT_EAD,Superior de Tecnologia em Internet das Coisas,20231,2,5
+LED_FIS_EAD,Licenciatura em Educação Física ,20221,4,8
+LET_EAD,Licenciatura em Letras - Língua Portuguesa,20191,10,8
+LIC_GEO_EAD,Licenciatura em Geografia,20231,2,8
+LIC_HIS_EAD,Licenciatura em História,20231,2,8
+LIC_LET_EAD,Licenciatura em Letras - Língua Portuguesa,20221,4,8
+LIC_PED_EAD,Licenciatura em Pedagogia,20221,4,8
+LOGIST,Superior de Tecnologia em Logística,20161,14,4
+LOG_EAD,Superior de Tecnologia em Logística,20221,4,4
+MAT_EAD,Licenciatura em Matemática,20201,8,8
+PED_EAD,Licenciatura em Pedagogia,20161,13,8
+PROC_GERE,Superior de Tecnologia em Processos Gerenciais,20161,14,4
+PRO_GER_EAD,Superior de Tecnologia em Processos Gerenciais,20212,5,4
+PRO_IND_EAD,Superior de Tecnologia em Gestão da Produção Industrial ,20221,4,6
+REC_HUM_EAD,Superior de Tecnologia em Gestão de Recursos Humanos,20221,4,4
+SAU_PUB_EAD,Superior de Tecnologia em Gestão da Saúde Pública ,20221,4,5
+SER_SOC_EAD,Bacharelado em Serviço Social ,20221,4,8
+TEC_INF_EAD,Superior em Gestão da Tecnologia da Informação,20231,2,5
